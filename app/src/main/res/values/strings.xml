@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bloc De Notas</string>
+    <string name="title">Titulo de la nota</string>
+    <string name="notepad">Bloc de notas</string>
+    <string name="show">Mostrar</string>
+    <string name="save">Guardar</string>
+    <string name="clean">Limpiar</string>
+</resources>
